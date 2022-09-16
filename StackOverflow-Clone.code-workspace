@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/StackOverflow-Clone"
+		},
+		{
+			"path": "../Snake-classic"
+		},
+		{
+			"path": "../Coursera"
+		},
+		{
+			"path": "../DEMO-website"
+		},
+		{
+			"path": "../WeatherForecast"
+		},
+		{
+			"path": "../Portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WeatherForecast"
+	}
+}
